@@ -1,6 +1,6 @@
 # Safety notice
 
-**Tripper is not a driving aid. It is a record of driving you have already
+**Redline is not a driving aid. It is a record of driving you have already
 done.**
 
 ## Before you drive
@@ -28,7 +28,7 @@ use them to time yourself on a public road. Speed limits apply regardless of
 what any app is measuring, and a timed run on a public road endangers other
 people.
 
-Tripper has no global leaderboard, deliberately. You are never competing with
+Redline has no global leaderboard, deliberately. You are never competing with
 strangers, so there is never a reason to drive harder than is safe in order
 to move up a list.
 

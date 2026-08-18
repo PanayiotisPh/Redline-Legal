@@ -2,23 +2,23 @@
 
 **Last updated: 18 August 2026**
 
-These terms govern your use of Tripper. By using the app you accept them. If
+These terms govern your use of Redline. By using the app you accept them. If
 you do not, please stop using the app and delete your account.
 
-Tripper is operated by **Panayiotis Photiadis**, a sole trader based in
-Cyprus. Contact: **[CONTACT_EMAIL]**
+Redline is operated by **Panayiotis Photiadis**, a sole trader based in
+Cyprus. Contact: **panayiotisphotiadis+privacy@gmail.com**
 
 ## 1. Safe driving comes first
 
 **Do not interact with your phone while driving.** Start a trip before you
 set off and stop it after you have parked.
 
-Tripper displays information about driving. It does not assist with driving,
+Redline displays information about driving. It does not assist with driving,
 and nothing in it should be treated as guidance about how to drive. You are
 solely responsible for operating your vehicle safely and lawfully, including
 observing speed limits and traffic laws.
 
-**Do not use Tripper to encourage or record illegal driving on public roads.**
+**Do not use Redline to encourage or record illegal driving on public roads.**
 The app deliberately has no global leaderboard precisely so that it does not
 create an incentive to drive dangerously in order to rank against strangers.
 Performance features such as the sprint timer are intended for use on private
@@ -29,7 +29,7 @@ any accident, injury, damage, fine or prosecution arising from your driving.
 
 ## 2. Accuracy
 
-Tripper measures using the sensors in a consumer phone. Those sensors have
+Redline measures using the sensors in a consumer phone. Those sensors have
 real limits, and we would rather state them than imply a precision we do not
 have:
 
@@ -42,7 +42,7 @@ have:
   They estimate power **at the wheels**, are not a dyno measurement, and will
   read below a manufacturer's crank figure.
 
-**Do not rely on Tripper where accuracy matters** — for legal, insurance,
+**Do not rely on Redline where accuracy matters** — for legal, insurance,
 competitive or safety purposes. Figures are provided as-is for your own
 interest.
 
@@ -68,7 +68,7 @@ rights. We may remove content or accounts that do.
 
 ## 5. Free and paid features
 
-Tripper's core function — recording drives, seeing their basic statistics,
+Redline's core function — recording drives, seeing their basic statistics,
 and competing with friends — is free and we intend to keep it that way.
 
 Some features require a paid subscription. Subscriptions are billed through
@@ -90,7 +90,7 @@ told before a price change affects them.
 
 ## 6. Availability
 
-We aim to keep Tripper working but do not guarantee uninterrupted service.
+We aim to keep Redline working but do not guarantee uninterrupted service.
 Features may change or be withdrawn. We may suspend the service for
 maintenance.
 
@@ -110,7 +110,7 @@ Cypriot or EU law.
 
 ## 8. Ending your use
 
-You may stop using Tripper at any time and delete your account from within
+You may stop using Redline at any time and delete your account from within
 the app. We may suspend or end your access if you breach these terms.
 
 ## 9. Governing law
@@ -122,4 +122,4 @@ mandatory consumer law of your country of residence.
 ## 10. Changes
 
 We may update these terms. Material changes will be noted in the app.
-Continuing to use Tripper after a change means you accept the updated terms.
+Continuing to use Redline after a change means you accept the updated terms.

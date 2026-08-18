@@ -2,17 +2,17 @@
 
 **Last updated: 18 August 2026**
 
-This policy explains what Tripper collects, why, and what control you have
+This policy explains what Redline collects, why, and what control you have
 over it. It is written to describe what the app actually does — if anything
 here does not match the app's behaviour, treat that as a bug and tell us.
 
 ## Who we are
 
-Tripper is operated by **Panayiotis Photiadis**, a sole trader based in
+Redline is operated by **Panayiotis Photiadis**, a sole trader based in
 Cyprus, acting as the data controller for the purposes of the EU General
 Data Protection Regulation (GDPR).
 
-Contact for any privacy question or request: **[CONTACT_EMAIL]**
+Contact for any privacy question or request: **panayiotisphotiadis+privacy@gmail.com**
 
 ## The short version
 
@@ -132,7 +132,7 @@ In practice:
 - **Delete**: individual trips can be deleted from the app, and your entire
   account can be deleted from Profile → Delete profile. This is immediate
   and cannot be undone.
-- **Anything else**: email **[CONTACT_EMAIL]** and we will respond within
+- **Anything else**: email **panayiotisphotiadis+privacy@gmail.com** and we will respond within
   30 days.
 
 If you believe we have handled your data improperly, you may complain to the
@@ -151,11 +151,11 @@ access to the app.
 
 ## Children
 
-Tripper is not directed at children under 16 and we do not knowingly collect
+Redline is not directed at children under 16 and we do not knowingly collect
 their data.
 
 ## Changes
 
 If this policy changes materially we will update the date above and note the
-change in the app. Continuing to use Tripper after a change means you accept
+change in the app. Continuing to use Redline after a change means you accept
 the updated policy.
