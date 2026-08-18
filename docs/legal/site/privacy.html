@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tripper — Privacy Policy</title>
+<style>
+:root { color-scheme: light dark; }
+body {
+  font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem;
+  background: #fff; color: #1a1a1a;
+}
+@media (prefers-color-scheme: dark) {
+  body { background: #0d1017; color: #d8dce6; }
+  h1, h2, h3, strong { color: #fff; }
+  th { background: #171b26; }
+  td, th { border-color: #262c3b; }
+  code { background: #171b26; }
+  nav a { color: #7c97ff; }
+}
+h1 { font-size: 1.9rem; margin-bottom: .25rem; }
+h2 { font-size: 1.25rem; margin-top: 2.25rem; }
+h3 { font-size: 1rem; margin-top: 1.5rem; }
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
+th, td { border: 1px solid #ddd; padding: .5rem .65rem; text-align: left; vertical-align: top; }
+th { background: #f5f6f8; }
+code { background: #f2f3f5; padding: .1rem .3rem; border-radius: 3px; font-size: .9em; }
+nav { margin-bottom: 2rem; font-size: .9rem; }
+nav a { margin-right: 1rem; }
+</style>
+</head>
+<body>
+<nav><a href="./privacy.html">Privacy</a><a href="./terms.html">Terms</a><a href="./safety.html">Safety</a></nav>
+<h1>Privacy Policy</h1>
+<p><strong>Last updated: 18 August 2026</strong></p>
+<p>This policy explains what Tripper collects, why, and what control you have over it. It is written to describe what the app actually does — if anything here does not match the app's behaviour, treat that as a bug and tell us.</p>
+<h2>Who we are</h2>
+<p>Tripper is operated by <strong>Panayiotis Photiadis</strong>, a sole trader based in Cyprus, acting as the data controller for the purposes of the EU General Data Protection Regulation (GDPR).</p>
+<p>Contact for any privacy question or request: <strong>[CONTACT_EMAIL]</strong></p>
+<h2>The short version</h2>
+<ul>
+<li>Location is recorded **only between the moment you tap "Start trip" and the</li>
+<p>moment you tap "Stop trip"**. It is never collected in the background at other times, and the app does not detect driving on its own.</p>
+<li>There are <strong>no adverts and no advertising SDKs</strong>.</li>
+<li>There are <strong>no analytics or tracking SDKs</strong>. We do not measure how you use</li>
+<p>the app.</p>
+<li>**We do not sell your data, and we do not share it with data brokers or</li>
+<p>advertisers.**</p>
+<li>Maps are served by OpenFreeMap, not Google or Mapbox, so your route is not</li>
+<p>handed to an advertising company in order to draw a map.</p>
+<li>You can export your trips as GPX files and delete your account, with all</li>
+<p>its data, from inside the app.</p>
+</ul>
+<h2>What we collect</h2>
+<h3>Account information</h3>
+<p>When you create an account we store your <strong>email address</strong> (through our authentication provider) and a <strong>display name</strong>, which is derived from the part of your email before the <code>@</code> unless you change it. You may optionally select an avatar from a set of built-in images.</p>
+<h3>Trip data</h3>
+<p>While a trip is running, the app records:</p>
+<ul>
+<li><strong>Location</strong>: GPS coordinates along your route, with timestamps</li>
+<li><strong>Speed</strong>: derived from GPS</li>
+<li><strong>Motion</strong>: accelerometer and gyroscope readings, used to calculate</li>
+<p>G-force, cornering and braking</p>
+<li><strong>Air pressure</strong>: from the barometer, used to calculate elevation change</li>
+<li><strong>Derived statistics</strong>: distance, duration, average and maximum speed, peak</li>
+<p>and sustained G-force, elevation gain, and per-kilometre splits</p>
+<li><strong>A label</strong> for the trip, which you may edit</li>
+</ul>
+<p>Sensor readings are thinned before upload — we store roughly one point per second rather than every raw reading, because that is all the charts use.</p>
+<h3>Vehicles</h3>
+<p>If you choose to add a vehicle to estimate power output, we store the name and weight you enter, and optionally its drag figures. This is entirely optional and the app works without it.</p>
+<h3>Device information</h3>
+<p>We store a <strong>randomly generated identifier for each installation</strong> of the app. This is not a hardware identifier: it is a random value created by the app, it cannot be linked to you across other apps, it tells us nothing about your device, and it is regenerated if you reinstall. We use it solely to limit how many installations one account may be signed in on at once.</p>
+<h3>What we do not collect</h3>
+<p>We do not collect your contacts, photos, calendar, microphone, camera, advertising identifier, or your location outside of an active trip.</p>
+<h2>Why we collect it, and our lawful basis</h2>
+<table><thead>
+<tr><th>What</th><th>Why</th><th>Lawful basis (GDPR Art. 6)</th></tr>
+</thead><tbody>
+<tr><td>Email and display name</td><td>To create and secure your account</td><td>Contract</td></tr>
+<tr><td>Trip and sensor data</td><td>To provide the app's core function — recording and analysing your drives</td><td>Contract</td></tr>
+<tr><td>Group membership</td><td>To show leaderboards to people you have chosen to share a group with</td><td>Contract</td></tr>
+<tr><td>Installation identifier</td><td>To limit concurrent installations per account</td><td>Legitimate interests — preventing account sharing</td></tr>
+<tr><td>Subscription status</td><td>To provide paid features you have purchased</td><td>Contract</td></tr>
+</tbody></table>
+<h2>Who your data is shared with</h2>
+<p>Your data is stored on servers operated by <strong>Supabase</strong>, our database and authentication provider, acting as our data processor. Data may be stored on servers within the EU or elsewhere depending on the region of our project.</p>
+<p>Map imagery is requested from <strong>OpenFreeMap</strong>, a free and open map tile service. Requesting tiles necessarily reveals the approximate area you are viewing to that service, in the same way that loading any map does. We chose it specifically because it requires no API key or account and is not operated by an advertising business.</p>
+<p>When payments are enabled, subscription processing is handled by <strong>Google Play</strong> and <strong>RevenueCat</strong>. We never see or store your payment card details.</p>
+<p>Other people see your data only in these cases:</p>
+<ul>
+<li><strong>Group members</strong> can see your display name, avatar, and your aggregate</li>
+<p>statistics — trip count, distance, top speed and peak G — on the leaderboard of a group you have both joined.</p>
+<li><strong>Nobody else.</strong> There is no global leaderboard and no public profile.</li>
+<p>People who do not share a group with you cannot see your profile at all.</p>
+<li><strong>Stat cards you share</strong> contain whatever the card shows, including a map</li>
+<p>of your route. Street and place names are deliberately removed from these maps, but the shape of the route is visible. You choose whether to share one and with whom.</p>
+</ul>
+<h2>How long we keep it</h2>
+<p>Trips are kept until you delete them or delete your account. Free accounts see their most recent 10 trips and paid accounts their most recent 100 — this is a limit on what is *displayed*, not a deletion. Older trips are retained, and become visible again if you subscribe.</p>
+<p>Deleting your account removes your profile, trips, group memberships and vehicles.</p>
+<h2>Your rights</h2>
+<p>Under GDPR you have the right to access your data, correct it, delete it, export it, restrict or object to processing, and to withdraw consent.</p>
+<p>In practice:</p>
+<ul>
+<li><strong>Export</strong>: any trip can be exported as a GPX file from its detail screen,</li>
+<p>and a full JSON export is available from your profile.</p>
+<li><strong>Delete</strong>: individual trips can be deleted from the app, and your entire</li>
+<p>account can be deleted from Profile → Delete profile. This is immediate and cannot be undone.</p>
+<li><strong>Anything else</strong>: email <strong>[CONTACT_EMAIL]</strong> and we will respond within</li>
+<p>30 days.</p>
+</ul>
+<p>If you believe we have handled your data improperly, you may complain to the Office of the Commissioner for Personal Data Protection in Cyprus (www.dataprotection.gov.cy), or to your local supervisory authority.</p>
+<h2>Security</h2>
+<p>Access to your data is enforced at the database level by row-level security policies, so one account cannot read another's trips even if the app were modified. Connections are encrypted in transit.</p>
+<p>No system is perfectly secure. Your session token is stored in the app's private storage on your device; anyone with access to an unlocked phone has access to the app.</p>
+<h2>Children</h2>
+<p>Tripper is not directed at children under 16 and we do not knowingly collect their data.</p>
+<h2>Changes</h2>
+<p>If this policy changes materially we will update the date above and note the change in the app. Continuing to use Tripper after a change means you accept the updated policy.</p>
+</body>
+</html>
