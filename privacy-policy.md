@@ -6,14 +6,6 @@ This policy explains what Redline collects, why, and what control you have
 over it. It is written to describe what the app actually does — if anything
 here does not match the app's behaviour, treat that as a bug and tell us.
 
-## Who we are
-
-Redline is operated by **Panayiotis Photiadis**, a sole trader based in
-Cyprus, acting as the data controller for the purposes of the EU General
-Data Protection Regulation (GDPR).
-
-Contact for any privacy question or request: **panayiotisphotiadis+privacy@gmail.com**
-
 ## The short version
 
 - Location is recorded **only between the moment you tap "Start trip" and the
@@ -120,6 +112,14 @@ retained, and become visible again if you subscribe.
 Deleting your account removes your profile, trips, group memberships and
 vehicles.
 
+## Who we are
+
+Redline is operated by **Panayiotis Photiadis**, a sole trader based in
+Cyprus, acting as the data controller for the purposes of the EU General
+Data Protection Regulation (GDPR).
+
+Contact for any privacy question or request: **privacy@redlinegforce.com**
+
 ## Your rights
 
 Under GDPR you have the right to access your data, correct it, delete it,
@@ -132,7 +132,7 @@ In practice:
 - **Delete**: individual trips can be deleted from the app, and your entire
   account can be deleted from Profile → Delete profile. This is immediate
   and cannot be undone.
-- **Anything else**: email **panayiotisphotiadis+privacy@gmail.com** and we will respond within
+- **Anything else**: email **privacy@redlinegforce.com** and we will respond within
   30 days.
 
 If you believe we have handled your data improperly, you may complain to the

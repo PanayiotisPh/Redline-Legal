@@ -5,9 +5,6 @@
 These terms govern your use of Redline. By using the app you accept them. If
 you do not, please stop using the app and delete your account.
 
-Redline is operated by **Panayiotis Photiadis**, a sole trader based in
-Cyprus. Contact: **panayiotisphotiadis+privacy@gmail.com**
-
 ## 1. Safe driving comes first
 
 **Do not interact with your phone while driving.** Start a trip before you
@@ -119,7 +116,12 @@ These terms are governed by the law of the Republic of Cyprus. If you are a
 consumer resident elsewhere in the EU, you keep the protection of the
 mandatory consumer law of your country of residence.
 
-## 10. Changes
+## 10. Who operates Redline
+
+Redline is operated by **Panayiotis Photiadis**, a sole trader based in
+Cyprus. Contact: **privacy@redlinegforce.com**
+
+## 11. Changes
 
 We may update these terms. Material changes will be noted in the app.
 Continuing to use Redline after a change means you accept the updated terms.
