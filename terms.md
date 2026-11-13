@@ -39,7 +39,7 @@ have:
   They estimate power **at the wheels**, are not a dyno measurement, and will
   read below a manufacturer's crank figure.
 
-**Do not rely on Redline where accuracy matters** — for legal, insurance,
+**Do not rely on Redline where accuracy matters**: for legal, insurance,
 competitive or safety purposes. Figures are provided as-is for your own
 interest.
 
@@ -65,8 +65,8 @@ rights. We may remove content or accounts that do.
 
 ## 5. Free and paid features
 
-Redline's core function — recording drives, seeing their basic statistics,
-and competing with friends — is free and we intend to keep it that way.
+Redline's core function (recording drives, seeing their basic statistics,
+and competing with friends) is free and we intend to keep it that way.
 
 Some features require a paid subscription. Subscriptions are billed through
 Google Play at the price shown before purchase, renew automatically until

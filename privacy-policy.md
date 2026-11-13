@@ -3,7 +3,7 @@
 **Last updated: 18 August 2026**
 
 This policy explains what Redline collects, why, and what control you have
-over it. It is written to describe what the app actually does — if anything
+over it. It is written to describe what the app actually does. If anything
 here does not match the app's behaviour, treat that as a bug and tell us.
 
 ## The short version
@@ -27,7 +27,7 @@ here does not match the app's behaviour, treat that as a bug and tell us.
 
 When you create an account we store your **email address** (through our
 authentication provider) and a **display name**, which is derived from the
-part of your email before the `@` unless you change it. You may optionally
+part of your email before the @ sign unless you change it. You may optionally
 select an avatar from a set of built-in images.
 
 ### Trip data
@@ -43,7 +43,7 @@ While a trip is running, the app records:
   and sustained G-force, elevation gain, and per-kilometre splits
 - **A label** for the trip, which you may edit
 
-Sensor readings are thinned before upload — we store roughly one point per
+Sensor readings are thinned before upload: we store roughly one point per
 second rather than every raw reading, because that is all the charts use.
 
 ### Vehicles
@@ -70,9 +70,9 @@ advertising identifier, or your location outside of an active trip.
 | What | Why | Lawful basis (GDPR Art. 6) |
 |---|---|---|
 | Email and display name | To create and secure your account | Contract |
-| Trip and sensor data | To provide the app's core function — recording and analysing your drives | Contract |
+| Trip and sensor data | To provide the app's core function: recording and analysing your drives | Contract |
 | Group membership | To show leaderboards to people you have chosen to share a group with | Contract |
-| Installation identifier | To limit concurrent installations per account | Legitimate interests — preventing account sharing |
+| Installation identifier | To limit concurrent installations per account | Legitimate interests: preventing account sharing |
 | Subscription status | To provide paid features you have purchased | Contract |
 
 ## Who your data is shared with
@@ -93,7 +93,7 @@ Play** and **RevenueCat**. We never see or store your payment card details.
 Other people see your data only in these cases:
 
 - **Group members** can see your display name, avatar, and your aggregate
-  statistics — trip count, distance, top speed and peak G — on the
+  statistics (trip count, distance, top speed and peak G) on the
   leaderboard of a group you have both joined.
 - **Nobody else.** There is no global leaderboard and no public profile.
   People who do not share a group with you cannot see your profile at all.
@@ -105,8 +105,8 @@ Other people see your data only in these cases:
 ## How long we keep it
 
 Trips are kept until you delete them or delete your account. Free accounts
-see their most recent 10 trips and paid accounts their most recent 100 —
-this is a limit on what is *displayed*, not a deletion. Older trips are
+see their most recent 10 trips and paid accounts their most recent 100.
+This is a limit on what is displayed, not a deletion. Older trips are
 retained, and become visible again if you subscribe.
 
 Deleting your account removes your profile, trips, group memberships and

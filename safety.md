@@ -15,7 +15,7 @@ from the road for. Distance, speed and G-force are all still there when you
 stop.
 
 If you use Android Auto, the car display is deliberately minimal and updates
-about once a second — slowly enough to glance at, not to read. It exists so
+about once a second, slowly enough to glance at, not to read. It exists so
 you are less tempted to reach for your phone, not to give you something to
 watch.
 
@@ -35,7 +35,7 @@ to move up a list.
 ## Mounting your phone
 
 Use a proper mount. A phone loose in a cup holder or on a seat produces poor
-readings — and becomes a projectile in a collision.
+readings and becomes a projectile in a collision.
 
 Keep the mount clear of airbag deployment zones and out of your view of the
 road. In many countries an obstructed windscreen is itself an offence.
@@ -48,6 +48,6 @@ windscreen mount can overheat and throttle or shut down.
 
 ## If something looks wrong
 
-Sensors can be wrong. If a figure looks implausible, it probably is — a bad
+Sensors can be wrong. If a figure looks implausible, it probably is: a bad
 GPS fix, a knocked mount, or a phone that was not still when the trip
 started. Do not act on a number you do not believe.
